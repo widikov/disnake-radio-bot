@@ -15,7 +15,7 @@ intents.message_content = True
 client = Bot(command_prefix=PREFIX, intents=intents)
 player = None
 DEFAULT_VOLUME = 0.3
-TOKEN = "TOKEN" # change this for ur bot token
+TOKEN = "TOKEN" # change this for your bot token
 
 @client.event
 async def on_ready():
