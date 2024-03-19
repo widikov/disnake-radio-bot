@@ -3,7 +3,7 @@
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://i.ibb.co/RgM9Szn/removal-ai-bc975f70-48d2-4f15-8d50-7e32b56776ab-discord-icon-isolated-white-background-social-media.png" alt="Markdownify" width="200"></a>
   <br>
-  Markdownify
+  discord-py-radio-bot
   <br>
 </h1>
 
