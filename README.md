@@ -8,3 +8,13 @@
 </h1>
 
 <h4 align="center">A simple radio bot that was made using <a href="https://discordpy.readthedocs.io/en/stable" target="_blank">Discord.py</a>.</h4>
+
+<p align="center">
+  <a href="https://streamurl.link/">Radio list</a> •
+  <a href="https://github.com/widikov/discord-py-radio-bot/archive/refs/heads/main.zip">Download</a> •
+  <a href="https://github.com/widikov/discord-py-radio-bot/archive/refs/heads/main.zip">Requirements</a> •
+  <a href="https://github.com/widikov/discord-py-radio-bot/blob/main/requirements.txt">License</a>
+</p>
+
+
+
