@@ -5,17 +5,17 @@ from discord.ext.commands import Bot
 import os
 import asyncio
 
-PREFIX = "?" # change this for your bot prefix
 SOURCE = ""
-ENCODING = "mp3"
+player = None
+DEFAULT_VOLUME = 0.3
 
 intents = Intents.default()
 intents.members = True
 intents.message_content = True
+
 client = Bot(command_prefix=PREFIX, intents=intents)
-player = None
-DEFAULT_VOLUME = 0.3
 TOKEN = "TOKEN" # change this for your bot token
+PREFIX = "?" # change this for your bot prefix
 
 @client.event
 async def on_ready():
