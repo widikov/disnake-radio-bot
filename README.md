@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A simple radio bot that was made using <a href="https://discordpy.readthedocs.io/en/stable" target="_blank">Discord.py</a>.</h4>
+<h4 align="center">A simple radio bot that was made using <a href="https://disnake.dev" target="_blank">Disnake</a>.</h4>
 
 <p align="center">
   <a href="https://streamurl.link/">Radio list</a> •
