@@ -3,7 +3,7 @@
   <br>
   <img src="https://i.ibb.co/RgM9Szn/removal-ai-bc975f70-48d2-4f15-8d50-7e32b56776ab-discord-icon-isolated-white-background-social-media.png" alt="Discord logo" width="200">
   <br>
-  disnake
+  Disnake Radio Bot
   <br>
 </h1>
 
