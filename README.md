@@ -3,7 +3,7 @@
   <br>
   <img src="https://i.ibb.co/RgM9Szn/removal-ai-bc975f70-48d2-4f15-8d50-7e32b56776ab-discord-icon-isolated-white-background-social-media.png" alt="Discord logo" width="200">
   <br>
-  discord-py-radio-bot
+  disnake
   <br>
 </h1>
 
@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://streamurl.link/">Radio list</a> •
-  <a href="https://github.com/widikov/discord-py-radio-bot/archive/refs/heads/main.zip">Download</a> •
-  <a href="https://github.com/widikov/discord-py-radio-bot/archive/refs/heads/main.zip">Requirements</a> •
-  <a href="https://github.com/widikov/discord-py-radio-bot/blob/main/requirements.txt">License</a>
+  <a href="https://github.com/widikov/disnake-radio-bot/archive/refs/heads/main.zip">Download</a> •
+  <a href="https://github.com/widikov/disnake-radio-bot/archive/refs/heads/main.zip">Requirements</a> •
+  <a href="https://github.com/widikov/disnake-radio-bot/blob/main/requirements.txt">License</a>
 </p>
 
 
