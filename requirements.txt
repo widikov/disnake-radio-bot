@@ -1,1 +1,1 @@
-discord==2.3.2
+disnake==2.9.1
