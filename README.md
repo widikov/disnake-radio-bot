@@ -1,4 +1,4 @@
-# Discord Radio Bot
+# Disnake Radio Bot
 
 A simple Discord bot that allows users to play radio streams in voice channels using slash commands.
 
